@@ -1,6 +1,17 @@
 {
-  "_v": 1773842094009,
+  "_v": 1773842137801,
   "items": [
+    {
+      "id": 1773842137801,
+      "name": "test 2",
+      "price": "2500",
+      "img": "https://cdn.jsdelivr.net/gh/AdVax/Shahdaloosh@main/images/img_1773842105231_4245.webp",
+      "desc": "test",
+      "old_price": "5000",
+      "badge_text": "test 2",
+      "cat": "",
+      "is_offer": true
+    },
     {
       "id": 1773842094009,
       "name": "test 1",
