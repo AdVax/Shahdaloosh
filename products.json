@@ -1,17 +1,6 @@
 {
-  "_v": 1774729186465,
+  "_v": 1774729257065,
   "items": [
-    {
-      "id": 1774729186465,
-      "name": "3",
-      "price": "5",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/Shahdaloosh@main/images/img_1774729170312_1517.webp",
-      "desc": "5",
-      "old_price": "7",
-      "badge_text": "5",
-      "cat": "5",
-      "is_offer": false
-    },
     {
       "id": 1773842377552,
       "name": "tteeset",
